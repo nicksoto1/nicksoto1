@@ -1,4 +1,4 @@
-<h1 align="center">Olá pessoal me chamo Michael Soto</h1>
+<h1 align="center">Olá pessoal me chamo Michael Soto 👋 </h1>
 <h3 align="center">Estudante da área de sistema de informação,úsuario do Linux Mint,tenho experiencia com desenvolvilmento web full-stack mas meu sonho é ingressar no mercado de trabalho como front-end.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicksoto1" alt="nicksoto1" /></a> </p>
