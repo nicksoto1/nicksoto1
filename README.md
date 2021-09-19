@@ -33,7 +33,7 @@
 
 
 <!--Contacts  -->
-  <div>
+  <p>
     <a href="https://www.linkedin.com/in/michael-soto-81195a89/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
    
     
@@ -44,6 +44,6 @@
 <a href="https://www.instagram.com/michaelsoto__/" target="blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><a/>
   
  <a href="https://linuxmint.com" target="blank"> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /></a>
-  </div>
+  </p>
 
 
